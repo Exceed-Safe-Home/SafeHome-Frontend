@@ -1,0 +1,17 @@
+.register-username-box{
+    margin-top: 10px;
+    width: 40%;
+    height: auto;
+    padding: 30px;
+    margin: auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.register-page-back-to-login{
+    padding:20px;
+    text-align: center;
+    font-size:18px;
+}
+
+

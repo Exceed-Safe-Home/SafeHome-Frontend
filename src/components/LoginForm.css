@@ -1,0 +1,20 @@
+.login-box{
+    margin: auto;
+    width: 30%;
+    height: 35%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.login-form-component{
+    padding: 30px;
+}
+
+.safe-home-text {
+    font-size: calc(50px + 2vmin);
+}
+
+
+
+

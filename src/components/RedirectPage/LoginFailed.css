@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+.text-box-fail{
+    background-color: white;
+    width: 50%;
+    height: 20%;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 12rem;
+}
+
+.fail-text {
+    font-size: 30px;
+    text-align: center;
+    color:red;
+}
+.login-fail{
+    height: 100%;
+}
+

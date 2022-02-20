@@ -1,0 +1,17 @@
+
+body{
+    height: 1000px;
+    background-color: #282c34;
+    background-image: url("../public/living-bck2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+
+#root{
+    height: 1000px;
+    padding: 20px;
+}
+
